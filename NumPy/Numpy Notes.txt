@@ -1,0 +1,88 @@
+in NumPy i have learned following topics:
+based on this give problem that can help me to practice
+
+working of indexing
+
+1.Creating array
+np.arange
+np.linspace
+np.identity
+np.zeros and np.ones
+np.random
+
+2.numpy attributes
+np.itemsize
+np.size
+np.shape
+np.ndim
+dtype
+
+3.numpy changing data types
+np.astype
+
+4.numpy Array operations
+scalar operation
+arithmetics
+relational operators
+vector operations
+
+5. numpy functions
+max/min/sum/prod
+mean/median/std/var
+trigonometric functions
+round/floor/ceil
+log and exponents
+axis concept
+
+6.indexing and slicing
+
+7.Iterating
+np.nditer
+
+8.reshaping
+reshape
+transpose
+ravel
+
+9.Stacking
+np.vstack
+np.hstack
+
+10.Splitting
+np.vsplit
+np.hsplit
+
+11.Advance NumPy
+Advance indexing
+fancy indexing
+Boolean indexing
+Broadcasting
+plotting 2d graphs
+
+12.NumPy Tricks
+np.sort()
+np.append()
+np.concatenate()
+np.unique()
+np.expand_dims
+np.where()
+np.argmax()
+np.argmin()
+np.cumsum()
+np.cumprod()
+np.percentile()
+np.histogram()
+np.corrcoef()
+np.isin
+np.flip
+np.put
+np.delete
+
+set functions
+np.union1d
+np.intersect1d
+np.setdiff1d
+np.setxor1d
+np.in1d
+
+np.clip

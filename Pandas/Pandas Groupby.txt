@@ -1,0 +1,1 @@
+Pandas Groupby - always applicable for categorical data

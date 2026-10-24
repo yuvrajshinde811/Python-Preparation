@@ -1,0 +1,179 @@
+=========================================
+PANDAS SERIES - LEARNING CHECKLIST
+=========================================
+
+1. SERIES CREATION
+-----------------------------------------
+□ Series from List
+    □ String
+    □ Integer
+    □ Float
+    □ Boolean
+    □ Mixed Data Types
+    □ Custom Index
+    □ Setting Series Name
+
+□ Series from Dictionary
+
+□ Series using read_csv()
+
+-----------------------------------------
+2. SERIES ATTRIBUTES
+-----------------------------------------
+□ size
+□ index
+□ dtype
+□ name
+□ is_unique
+□ values
+
+-----------------------------------------
+3. SERIES METHODS
+-----------------------------------------
+□ head()
+□ tail()
+□ sample()
+
+-----------------------------------------
+4. FREQUENCY METHODS
+-----------------------------------------
+□ unique()
+□ value_counts()
+□ nunique()
+
+-----------------------------------------
+5. SORTING
+-----------------------------------------
+□ sort_values()
+□ sort_index()
+
+-----------------------------------------
+6. MATHEMATICAL METHODS
+-----------------------------------------
+□ count()
+□ sum()
+□ product()
+
+-----------------------------------------
+7. STATISTICAL METHODS
+-----------------------------------------
+□ mean()
+□ median()
+□ mode()
+□ average (mean)
+□ var()
+□ std()
+□ min()
+□ max()
+□ describe()
+
+-----------------------------------------
+8. SERIES INDEXING
+-----------------------------------------
+□ Integer Indexing
+□ Negative Indexing
+□ Label Indexing
+
+-----------------------------------------
+9. SLICING
+-----------------------------------------
+□ Positive Slicing
+□ Negative Slicing
+□ Step Slicing
+□ Reverse Slicing
+
+-----------------------------------------
+10. FANCY INDEXING
+-----------------------------------------
+□ Multiple Integer Indexes
+□ Multiple Label Indexes
+
+-----------------------------------------
+11. EDITING SERIES
+-----------------------------------------
+□ Update using Integer Index
+□ Update using Label Index
+□ Add New Value
+□ Modify using Slicing
+
+-----------------------------------------
+12. COPY VS VIEW
+-----------------------------------------
+□ Assignment (=)
+□ copy()
+
+-----------------------------------------
+13. PYTHON FUNCTIONALITIES
+-----------------------------------------
+□ len()
+□ type()
+□ dir()
+□ sorted()
+□ max()
+□ min()
+□ astype()
+□ Membership Operator (in / not in)
+□ Looping
+□ Arithmetic Operators
+□ Relational Operators
+
+-----------------------------------------
+14. BOOLEAN INDEXING
+-----------------------------------------
+□ Single Condition
+□ Multiple Conditions
+□ AND (&)
+□ OR (|)
+□ NOT (~)
+□ between()
+□ isin()
+
+-----------------------------------------
+15. MISSING VALUES
+-----------------------------------------
+□ isnull()
+□ notnull()
+□ fillna()
+□ dropna()
+
+-----------------------------------------
+16. DUPLICATES
+-----------------------------------------
+□ duplicated()
+□ drop_duplicates()
+
+-----------------------------------------
+17. VALUE MODIFICATION
+-----------------------------------------
+□ clip()
+□ apply()
+□ lambda Functions
+
+-----------------------------------------
+18. PLOTTING
+-----------------------------------------
+□ Line Plot
+□ Bar Plot
+□ Histogram
+□ Box Plot
+□ Pie Chart (Optional)
+
+=========================================
+ADDITIONAL IMPORTANT FUNCTIONS
+=========================================
+
+□ astype()
+□ between()
+□ clip()
+□ duplicated()
+□ drop_duplicates()
+□ isnull()
+□ notnull()
+□ fillna()
+□ dropna()
+□ isin()
+□ apply()
+□ lambda
+□ copy()
+□ memory_usage()
+□ sys.getsizeof()

@@ -1,0 +1,105 @@
+PANDAS DATAFRAME - LEARNING CHECKLIST
+
+1. DATAFRAME CREATION
+
+Create DataFrame from List
+Create DataFrame from Dictionary
+Create DataFrame using read_csv()
+
+
+2. DATAFRAME ATTRIBUTES & METHODS
+
+shape
+dtypes
+index
+columns
+values
+info()
+describe()
+head()
+tail()
+sample()
+isnull()
+duplicated()
+rename()
+
+
+3. MATHEMATICAL METHODS
+
+sum()
+mean()
+median()
+max()
+min()
+var()
+std()
+
+
+4. SELECTING COLUMNS
+
+Single Column Selection
+Multiple Column Selection
+
+
+5. SELECTING ROWS
+
+set_index()
+loc[]
+iloc[]
+Simple Row Selection
+Multiple Row Selection
+Fancy Indexing
+
+
+6. SELECTING ROWS AND COLUMNS
+
+loc[row, column]
+iloc[row, column]
+Multiple Rows & Columns
+Slicing Rows & Columns
+
+
+7. FILTERING DATAFRAMES
+
+Single Condition
+Multiple Conditions
+AND (&)
+OR (|)
+NOT (~)
+between()
+isin()
+
+
+8. ADDING NEW COLUMNS
+
+Constant Value
+From Existing Column
+Using Arithmetic Operations
+Using Boolean Conditions
+Using apply()
+
+
+9. IMPORTANT DATAFRAME FUNCTIONS
+
+astype()
+value_counts()
+sort_values()
+rank()
+set_index()
+reset_index()
+rename(columns=)
+rename(index=)
+unique()
+nunique()
+isnull()
+notnull()
+hasnans
+dropna()
+fillna()
+duplicated()
+drop_duplicates()
+keep='first'
+keep='last'
+keep=False
+drop()
+apply()
