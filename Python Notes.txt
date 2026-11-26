@@ -1,0 +1,67 @@
+Output types
+	print()
+
+Comments
+
+Data Types
+	integer (largest value)
+	decimal/float (largest value)
+	Boolean (true, false)
+	Text/String("")
+	Complex Number
+	List
+	Tuple
+	Set
+	Dictionary
+	none
+	and any other
+
+Dynamic typing
+dynamic binding
+
+Variables
+
+Keywords and Identifiers
+
+User Input
+	Static and dynamic software
+
+Type Conversion
+	Implicit
+	Explicit
+
+Literals
+	Binary
+	Decimal
+	Octal
+	Hexadecimal
+	Float
+	Complex
+	String
+	Boolean
+
+Operators
+	Arithmetic
+	Relational
+	Logical
+	Bitwise
+	Assignment
+	Membership
+
+if-else
+	elif
+	nested
+
+Modules in Python
+	math
+	keyword
+	constant
+	random
+	datetime
+	help("modules")
+
+Loops in python
+	need of loop
+	while-loop
+	while loop with else
+	
